@@ -1,4 +1,4 @@
-# CRT-INTERNSHIPS
+# CRT-INTERNSHIP-Task1
 Machine Learning Internship - Coding Raja Technologies
 
 **TASK 1 : SENTIMENT ANALYSIS ON SOCIAL MEDIA DATA**
